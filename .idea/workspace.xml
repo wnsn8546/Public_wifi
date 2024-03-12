@@ -10,40 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46557efc-91f9-46c3-9ea0-fae0fc138fee" name="Changes" comment="add all">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/BaseDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/ResultInfoDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/RowInfoDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/WifiApiJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/WifiApiParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/WifiDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ApiWifiServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/HistoryRemoveServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/HistoryServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/NearbyWifiServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/HistoryDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/HistoryVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/JdbcManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/WifiVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/base.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/bookmark-list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/detail.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/group-list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/history.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/inc_menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/load-wifi.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/res/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/res/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +71,7 @@
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -351,8 +318,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710105644364</updated>
-      <workItem from="1710105645464" duration="44198000" />
+      <workItem from="1710105645464" duration="44753000" />
     </task>
+    <task id="LOCAL-00001" summary="add all">
+      <option name="closed" value="true" />
+      <created>1710283527551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710283527551</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
